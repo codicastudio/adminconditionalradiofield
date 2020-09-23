@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminconditionalradiofield",
+    "name": "codica-studio/adminconditionalradiofield",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminconditionalradiofield",
+    "homepage": "https://github.com/codica-studio/adminconditionalradiofield",
     "license": "MIT",
     "authors": [
         {
