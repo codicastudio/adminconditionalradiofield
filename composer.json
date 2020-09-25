@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminconditionalradiofield",
+    "name": "codicastudio/conditional-radio-field",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminconditionalradiofield",
+    "homepage": "https://github.com/codicastudio/conditional-radio-field",
     "license": "MIT",
     "authors": [
         {
@@ -30,6 +30,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
